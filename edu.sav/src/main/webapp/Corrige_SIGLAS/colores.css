@@ -1,0 +1,32 @@
+@charset "UTF-8";
+p{
+	font-size: 3rem;
+	border: solid black;
+}
+
+.resaltar{
+	border: solid 5px black;
+	
+}
+
+.juntar{
+	border-collapse: collapse;
+}
+
+.celdas1{
+	border-top: solid black;
+	border-bottom: solid black;
+	background-color: blue;
+}
+.celdas2{
+	border-top: solid black;
+	border-bottom: solid black;
+	background-color: royalblue;
+}
+
+.celdas3{
+	border-top: solid black;
+	border-bottom: solid black;
+	background-color: gray;
+	color: white;
+}
